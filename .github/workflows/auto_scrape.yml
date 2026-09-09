@@ -36,3 +36,4 @@ jobs:
         git add competition.db
         git commit -m "Auto-update competition data [skip ci]" || exit 0
         git push
+# force update schedule trigger
