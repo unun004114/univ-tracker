@@ -1,4 +1,4 @@
-name: 5-Minute Auto Tracker Scraper
+name: Auto Scraper Workflow
 
 on:
   schedule:
